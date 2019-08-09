@@ -1,7 +1,3 @@
-package p2;
-
-
-
 public class UserSolution {
 	private Node root =null;
 	private Node cur=null;
